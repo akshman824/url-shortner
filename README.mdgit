@@ -1,0 +1,1 @@
+"# url-shortner"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/akshman824/url-shortner.gitgit push -u origin main
